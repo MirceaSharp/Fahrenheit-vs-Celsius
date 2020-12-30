@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fahrenheit vs Celsius", "Fahrenheit vs Celsius\Fahrenheit vs Celsius.csproj", "{4BE9847D-5E54-4449-AB70-C18FA1C2F77C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE9847D-5E54-4449-AB70-C18FA1C2F77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE9847D-5E54-4449-AB70-C18FA1C2F77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE9847D-5E54-4449-AB70-C18FA1C2F77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE9847D-5E54-4449-AB70-C18FA1C2F77C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE5EA98-7DA3-4FD5-A577-4C5981C10D28}
+	EndGlobalSection
+EndGlobal

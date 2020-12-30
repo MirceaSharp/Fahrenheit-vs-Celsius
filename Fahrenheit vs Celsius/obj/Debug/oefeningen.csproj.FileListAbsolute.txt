@@ -1,0 +1,7 @@
+C:\Users\mirce\source\repos\oefeningen\oefeningen\obj\Debug\oefeningen.csprojAssemblyReference.cache
+C:\Users\mirce\source\repos\oefeningen\oefeningen\obj\Debug\oefeningen.csproj.CoreCompileInputs.cache
+C:\Users\mirce\source\repos\oefeningen\oefeningen\bin\Debug\Fahrenheit vs Celsius.exe.config
+C:\Users\mirce\source\repos\oefeningen\oefeningen\bin\Debug\Fahrenheit vs Celsius.exe
+C:\Users\mirce\source\repos\oefeningen\oefeningen\bin\Debug\Fahrenheit vs Celsius.pdb
+C:\Users\mirce\source\repos\oefeningen\oefeningen\obj\Debug\Fahrenheit vs Celsius.exe
+C:\Users\mirce\source\repos\oefeningen\oefeningen\obj\Debug\Fahrenheit vs Celsius.pdb
